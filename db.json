@@ -1,0 +1,26 @@
+{
+  "content": [
+    {
+      "id": 1,
+      "applicationId": 1,
+      "type": "FAQ",
+      "url": "https://s3.amazon.com/uploaded_document_1.csv",
+      "time": "2020-09-29T10:58:33.485Z"
+    },
+    {
+      "id": 2,
+      "applicationId": 1,
+      "type": "FAQ",
+      "url": "https://s3.amazon.com/uploaded_document_0.csv",
+      "time": "2019-08-12T10:58:33.485Z"
+    },
+    {
+      "title": "Frontend developer",
+      "applicationId": "2",
+      "type": "FAQ",
+      "url": "www.chatbossteam.com",
+      "time": "2020-10-08T10:58:33.485Z",
+      "id": 3
+    }
+  ]
+}
